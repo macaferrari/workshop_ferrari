@@ -1,0 +1,29 @@
+Arguments: 
+  /usr/local/bin/node /usr/share/yarn/bin/yarn.js add esbuild
+
+PATH: 
+  /home/webtech/.rvm/gems/ruby-3.2.0/bin:/home/webtech/.rvm/gems/ruby-3.2.0@global/bin:/home/webtech/.rvm/rubies/ruby-3.2.0/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/home/webtech/.rvm/bin:/usr/bin/Postman
+
+Yarn version: 
+  1.22.17
+
+Node version: 
+  20.1.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: ENOENT: no such file or directory, open '/home/webtech/.cache/yarn/v6/npm-@esbuild-linux-x64-0.18.0-8e3623c0d650af6eb84d27b7818b8334596cf2d7-integrity/node_modules/@esbuild/linux-x64/.yarn-metadata.json'
+
+npm manifest: 
+  {
+    "name": "app",
+    "private": "true"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
